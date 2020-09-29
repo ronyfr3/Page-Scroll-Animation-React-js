@@ -1,0 +1,15 @@
+.scroll-div{
+    margin: 20px;
+    margin-top: 150px;
+    background-color: rgb(80, 126, 6);
+    overflow: hidden;
+    height: 100px;
+    max-height: 35vh;
+    box-shadow: 0 0 15px rgb(238, 255, 0);
+    border-radius: 10px;
+    text-align: center;
+}
+.scroll{
+    max-width: 50%;
+    margin: auto;
+}
